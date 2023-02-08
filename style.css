@@ -1,4 +1,21 @@
 body {
     background-image: url("./images/final_logo.jpg");
     background-color: #c50;
+    background-size: height 40px, width 40px;
+}
+
+h2:hover {
+    background-color: #c50;
+    opacity: 0.6;
+}
+
+img:hover {
+    opacity: 0.8;
+}
+
+p {
+    text-align: left;
+    text-size-adjust: 420px;
+    background-color: #c50;
+    border: #000;
 }
